@@ -2,21 +2,21 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "packageImportTestEK",
+            "package": "packagepublish2",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
         },
         {
             "path": "force-app",
-            "package": "PacktestingShivangi",
+            "package": "packageImportTestEK",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
         },
         {
             "path": "force-app",
-            "package": "packagepublish2",
+            "package": "PacktestingShivangi",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
@@ -95,6 +95,7 @@
         "PacktestingShivangi": "0Ho5g00000000akCAA",
         "PacktestingShivangi@0.1.0-1": "04t5g000000y2pbAAA",
         "packageImportTestEK": "0Ho5g00000000bJCAQ",
-        "packageImportTestEK@0.1.0-1": "04t5g000000y2skAAA"
+        "packageImportTestEK@0.1.0-1": "04t5g000000y2skAAA",
+        "packagepublish2@0.1.0-3": "04t5g000000y2tTAAQ"
     }
 }
