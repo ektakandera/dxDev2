@@ -2,7 +2,14 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "salesApps2",
+            "package": "PackageTestFeb3",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "PackageTestFeb3",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
@@ -12,6 +19,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
-        
+        "PackageTestFeb3": "0Ho5g00000000iKCAQ"
     }
 }
