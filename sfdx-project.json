@@ -6,20 +6,12 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
-        },
-        {
-            "path": "force-app",
-            "package": "PackageTestFeb3",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
-        "PackageDemoToday": "0Ho5g00000000iPCAQ",
-        "PackageTestFeb3": "0Ho5g00000000iKCAQ"
+        "PackageDemoToday": "0Ho5g00000000iPCAQ"
     }
 }
