@@ -1,0 +1,2 @@
+[2022-02-26T11:38:46.696Z] starting `sfdx update --autoupdate` from /usr/bin/sfdx force:config:set
+waiting until 2022-02-26T12:38:46.691Z to update
