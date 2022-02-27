@@ -6,6 +6,13 @@
             "package": "MockuPackage22Feb3",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "MockPackage22Feb4",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -13,6 +20,7 @@
     "sourceApiVersion": "47.0",
     "packageAliases": {
         "MockuPackage22Feb3": "0Ho5g00000000j8CAA",
-        "MockuPackage22Feb3@0.1.0-1-develop": "04t5g000000y3kVAAQ"
+        "MockuPackage22Feb3@0.1.0-1-develop": "04t5g000000y3kVAAQ",
+        "MockPackage22Feb4": "0Ho5g00000000jDCAQ"
     }
 }
