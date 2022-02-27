@@ -1,18 +1,12 @@
 {
     "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "MockuPackage22Feb3",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        },
+        
         {
             "path": "force-app",
             "package": "MockPackage22Feb4",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "default": true
         }
     ],
     "namespace": "",
