@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "Id": "08c5g00000000vWAAQ",
+    "Status": "Success",
+    "Package2Id": "0Ho5g00000000j8CAA",
+    "Package2VersionId": "05i5g00000000iNAAQ",
+    "SubscriberPackageVersionId": "04t5g000000y3kVAAQ",
+    "Tag": null,
+    "Branch": "develop",
+    "Error": [],
+    "CreatedDate": "2022-02-27 15:09",
+    "HasMetadataRemoved": false,
+    "CreatedBy": "0055g00000CEwljAAD"
+  }
+}
