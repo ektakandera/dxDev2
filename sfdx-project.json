@@ -2,10 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "packagepublish2",
+            "package": "MockPackage13April",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "packagepublish2",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         },
         {
             "path": "force-app",
@@ -69,14 +76,8 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
-        },
-        {
-            "path": "force-app",
-            "package": "MockPackage13April",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
         }
+        
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
