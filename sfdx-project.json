@@ -85,7 +85,7 @@
             "default": false
         }
     ],
-    "namespace": "",
+    "namespace": "test123",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
