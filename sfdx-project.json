@@ -129,6 +129,7 @@
         "MockPackage 13 AP2@0.1.0-2-master": "04t5g000000y3s5AAA",
         "Test package 1": "0Ho5g00000000kLCAQ",
         "Test package 1@0.1.0-1-master": "04t5g000000y3stAAA",
-        "Test package 1@0.1.0-2-master": "04t5g000000y3syAAA"
+        "Test package 1@0.1.0-2-master": "04t5g000000y3syAAA",
+        "Test package 1@0.1.0-3-master": "04t5g000000y3t3AAA"
     }
 }
