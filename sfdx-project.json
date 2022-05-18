@@ -158,6 +158,7 @@
         "Test package 1@0.1.0-6-master": "04t5g000000y3yDAAQ",
         "Mock Package 18 May": "0Ho5g00000000kfCAA",
         "Mock Package 18 May@0.1.0-1-master": "04t5g000000y40JAAQ",
-        "Mock Package 18 May 2": "0Ho5g00000000kkCAA"
+        "Mock Package 18 May 2": "0Ho5g00000000kkCAA",
+        "Mock Package 18 May 2@0.1.0-1-master": "04t5g000000y40TAAQ"
     }
 }
