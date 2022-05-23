@@ -2,10 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "Test package 1",
+            "package": "Mock Package 18 May",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "Test package 1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         },
         {
             "path": "force-app",
@@ -94,13 +101,6 @@
         {
             "path": "force-app",
             "package": "Package25April",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "force-app",
-            "package": "Mock Package 18 May",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
