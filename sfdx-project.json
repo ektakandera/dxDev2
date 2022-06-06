@@ -5,7 +5,7 @@
             "package": "Naman Test 31May",
             "versionName": "v 3.2",
             "versionDescription": "Winter 2020 Release",
-            "versionNumber": "3.2.0.NEXT", 
+            "versionNumber": "3.2.0.NEXT",
             "default": true
         },
         {
@@ -170,6 +170,7 @@
         "Mock Package 18 May 2@0.1.0-1-master": "04t5g000000y40TAAQ",
         "Naman Test 31May": "0Ho5g00000000lECAQ",
         "Naman Test 31May@1.1.0-1-master": "04t5g000000y42tAAA",
-        "Naman Test 31May@0.1.0-1-master": "04t5g000000y43NAAQ"
+        "Naman Test 31May@0.1.0-1-master": "04t5g000000y43NAAQ",
+        "Naman Test 31May@3.2.0-1-master": "04t5g000000y43cAAA"
     }
 }
