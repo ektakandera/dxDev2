@@ -4,15 +4,8 @@
             "path": "force-app",
             "package": "Naman Test 31May",
             "versionName": "v 3.2",
-             "versionDescription": "Winter 2020 Release",
-             "versionNumber": "3.2.0.NEXT", 
-             "ancestorVersion": "3.0.0.7",
-             "postInstallScript": "PostInstallScript",
-             "uninstallScript": "PreUninstallScript",
-             "postInstallUrl": "https://expenser.com/post-install-instructions.html",
-             "releaseNotesUrl": "https://expenser.com/winter-2020-release-notes.html",
-             "definitionFile": "config/scratch-org-def.json",
-            "ancestorId": "Naman Test 31May@0.1.0-1-master",
+            "versionDescription": "Winter 2020 Release",
+            "versionNumber": "3.2.0.NEXT", 
             "default": true
         },
         {
