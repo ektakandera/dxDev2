@@ -4,7 +4,7 @@
             "path": "force-app",
             "package": "Naman Test 31May",
             "versionName": "v 3.1",
-            "versionDescription": "Winter 2022 Release",
+            "versionDescription": "Winter 2023",
             "versionNumber": "3.2.0.NEXT",
             "ancestorVersion": "3.2.0",
              "postInstallScript": "PostInstallScriptTest",
