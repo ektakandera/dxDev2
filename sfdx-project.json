@@ -13,6 +13,7 @@
     "sourceApiVersion": "47.0",
     "packageAliases": {
         "TrialPackage": "0Ho5g00000000kuCAA",
-        "TrialPackage@0.1.0-1-dev1": "04t5g000000y40dAAA"
+        "TrialPackage@0.1.0-1-dev1": "04t5g000000y40dAAA",
+        "TrialPackage@0.1.0-2-dev1": "04t5g000000y44pAAA"
     }
 }
