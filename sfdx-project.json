@@ -5,7 +5,7 @@
             "package": "Naman Test 31May",
             "versionName": "v 3.1",
             "ancestorId": "Naman Test 31May@1.1.0-1-master",
-            "ancestorVersion": '3.1.0.0',
+            "ancestorVersion": "3.1.0.0",
             "versionDescription": "Winter 2023",
             "versionNumber": "3.2.0.NEXT",
              "postInstallScript": "PostInstallScriptTest",
