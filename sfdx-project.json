@@ -118,6 +118,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "New package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -172,6 +179,7 @@
         "Naman Test 31May@0.1.0-1-master": "04t5g000000y43NAAQ",
         "Naman Test 31May@3.2.0-1-master": "04t5g000000y43cAAA",
         "Naman Test 31May@3.2.0-2-master": "04t5g000000y44zAAA",
-        "Naman Test 31May@3.2.0-3-master": "04t5g000000y454AAA"
+        "Naman Test 31May@3.2.0-3-master": "04t5g000000y454AAA",
+        "New package": "0Ho5g00000000lOCAQ"
     }
 }
