@@ -6,6 +6,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "nkv",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -15,6 +22,7 @@
         "New package": "0Ho5g00000000lOCAQ",
         "New package@0.1.0-1-master": "04t5g000000y45JAAQ",
         "New package@0.1.0-2-master": "04t5g000000y45OAAQ",
-        "New package@0.1.0-3-master": "04t5g000000y45TAAQ"
+        "New package@0.1.0-3-master": "04t5g000000y45TAAQ",
+        "nkv": "0Ho5i000000GmdICAS"
     }
 }
