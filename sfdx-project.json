@@ -2,6 +2,13 @@
     "packageDirectories": [
         {
             "path": "force-app",
+            "package": "MockPackageEk",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "force-app",
             "package": "New package",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
@@ -13,14 +20,8 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
-        },
-        {
-            "path": "force-app",
-            "package": "MockPackageEk",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
         }
+        
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
