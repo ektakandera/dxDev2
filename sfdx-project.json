@@ -14,7 +14,6 @@
             "versionNumber": "0.1.0.NEXT",
             "default": false
         },
-        
         {
             "path": "force-app",
             "package": "nkv",
@@ -48,6 +47,7 @@
         "MockPackageEk": "0Ho5g00000000ldCAA",
         "MockPackageEk@0.1.0-1-master": "04t5g000000y48IAAQ",
         "MockPackageEk@0.1.0-3-master": "04t5g000000y48SAAQ",
-        "MockPackageEk@0.1.0-4-master": "04t5g000000y48XAAQ"
+        "MockPackageEk@0.1.0-4-master": "04t5g000000y48XAAQ",
+        "New package@0.1.0-7-master": "04t5g000000y48mAAA"
     }
 }
