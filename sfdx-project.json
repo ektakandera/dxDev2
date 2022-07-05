@@ -2,18 +2,19 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "MockPackageEk",
+            "package": "New package",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
         },
         {
             "path": "force-app",
-            "package": "New package",
+            "package": "MockPackageEk",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
         },
+        
         {
             "path": "force-app",
             "package": "nkv",
