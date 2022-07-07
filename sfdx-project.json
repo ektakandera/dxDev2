@@ -20,6 +20,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "Jul7",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -56,6 +63,7 @@
         "New package@0.1.0-13-master": "04t5g000000y49fAAA",
         "New package@0.1.0-14-master": "04t5g000000y49kAAA",
         "New package@0.1.0-16-master": "04t5g000000y49uAAA",
-        "New package@0.1.0-17-master": "04t5g000000y49zAAA"
+        "New package@0.1.0-17-master": "04t5g000000y49zAAA",
+        "Jul7": "0Ho5g00000000liCAA"
     }
 }
