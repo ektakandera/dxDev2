@@ -13,16 +13,20 @@
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
     <enableAzureDLGen2OutputConnector>false</enableAzureDLGen2OutputConnector>
+    <enableCreateLegacyDataflows>false</enableCreateLegacyDataflows>
     <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
+    <enableDashboardToPDFEnable>false</enableDashboardToPDFEnable>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
     <enableFirebirdEditor>false</enableFirebirdEditor>
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
     <enableInsights>true</enableInsights>
-    <enableLightningReportBuilder>false</enableLightningReportBuilder>
+    <enableLightningReportBuilder>true</enableLightningReportBuilder>
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
     <enableNewChartsEngine>true</enableNewChartsEngine>
+    <enableNullDimension>false</enableNullDimension>
+    <enableOrgCanViewTableau>false</enableOrgCanViewTableau>
     <enableOrgHasMobileOfflineEnabled>true</enableOrgHasMobileOfflineEnabled>
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
     <enableQueryLiveConnectors>true</enableQueryLiveConnectors>
@@ -43,15 +47,16 @@
     <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
     <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
+    <enableWaveLwcDashboards>false</enableWaveLwcDashboards>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>
     <enableWaveReplication>false</enableWaveReplication>
-    <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
+    <enableWaveSharingInheritance>true</enableWaveSharingInheritance>
+    <enableWaveSqlCFIndexing>false</enableWaveSqlCFIndexing>
     <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>
     <recipeDirectDataPref>true</recipeDirectDataPref>
-    <recipeFiscalPref>false</recipeFiscalPref>
     <recipePreCachingOptOut>false</recipePreCachingOptOut>
     <recipeStagedDataPref>false</recipeStagedDataPref>
-    <replaceBlankMeasuresWithNulls>false</replaceBlankMeasuresWithNulls>
+    <replaceBlankMeasuresWithNulls>true</replaceBlankMeasuresWithNulls>
     <turnOnTimeZones>false</turnOnTimeZones>
 </AnalyticsSettings>

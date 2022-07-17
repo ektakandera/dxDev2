@@ -27,6 +27,7 @@
         <members>Contract</members>
         <members>ConversationalIntelligence</members>
         <members>Currency</members>
+        <members>CustomAddressField</members>
         <members>CustomerDataPlatform</members>
         <members>DataDotCom</members>
         <members>Deployment</members>
@@ -58,12 +59,12 @@
         <members>IncidentMgmt</members>
         <members>Industries</members>
         <members>InvocableAction</members>
+        <members>IoT</members>
         <members>Knowledge</members>
         <members>Language</members>
         <members>LeadConfig</members>
         <members>LightningExperience</members>
         <members>LiveAgent</members>
-        <members>LiveMessage</members>
         <members>Macro</members>
         <members>MailMerge</members>
         <members>Meetings</members>
@@ -81,6 +82,7 @@
         <members>PardotEinstein</members>
         <members>PartyDataModel</members>
         <members>PathAssistant</members>
+        <members>PaymentsManagementEnabled</members>
         <members>Picklist</members>
         <members>PlatformEncryption</members>
         <members>Portals</members>
@@ -115,5 +117,5 @@
         <members>WorkDotCom</members>
         <name>Settings</name>
     </types>
-    <version>54.0</version>
+    <version>55.0</version>
 </Package>

@@ -219,26 +219,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -273,11 +253,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -421,26 +396,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -475,11 +430,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -627,26 +577,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -682,11 +612,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -830,26 +755,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -884,11 +789,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1036,26 +936,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1091,11 +971,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1239,26 +1114,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1293,11 +1148,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1445,26 +1295,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1500,11 +1330,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1648,26 +1473,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1702,11 +1507,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1854,26 +1654,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -1909,11 +1689,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2057,26 +1832,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2111,11 +1866,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2263,26 +2013,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2318,11 +2048,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2466,26 +2191,6 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst6</field>
-            <label>Current Generator(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst7</field>
-            <label>Delivery/Installation Status</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst8</field>
-            <label>Main Competitor(s)</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVst9</field>
-            <label>Order Number</label>
-        </opportunityListFieldsLabelMappings>
-        <opportunityListFieldsLabelMappings>
-            <field>00N5g00000OVstA</field>
-            <label>Tracking Number</label>
-        </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
             <field>ACCOUNT.NAME</field>
@@ -2520,11 +2225,6 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N5g00000OVst6</field>
-            <field>00N5g00000OVst7</field>
-            <field>00N5g00000OVst8</field>
-            <field>00N5g00000OVst9</field>
-            <field>00N5g00000OVstA</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <globalAdjustmentsSettings>
