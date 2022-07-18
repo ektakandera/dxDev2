@@ -4,5 +4,9 @@
         <members>xyz__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>xyz__c-xyz Layout</members>
+        <name>Layout</name>
+    </types>
     <version>55.0</version>
 </Package>
